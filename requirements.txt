@@ -1,0 +1,27 @@
+# Core
+numpy==2.0.0
+pandas==2.2.3
+scipy
+scikit-learn
+openpyxl
+
+# Deep Learning
+torch
+torchvision
+torchaudio
+transformers==4.44.2
+huggingface_hub==0.24.7
+tokenizers==0.19.1
+accelerate==0.33.0
+
+# Embeddings / NLP
+gensim
+arabert
+pyarabic
+
+# Visualization
+matplotlib
+seaborn
+
+# Demo
+gradio==4.44.1
